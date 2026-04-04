@@ -117,9 +117,8 @@ char* expertise[] = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jerin1308&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerin1308&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+  <img height="150em" src="https://github-stats-alpha.vercel.app/api?username=Jerin1308&cc=0d1117&tc=00ff88&ic=00ff88&bc=0d1117" />
+  &nbsp;
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jerin1308&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=ff6b35&currStreakLabel=00ff88" />
 
@@ -130,9 +129,8 @@ char* expertise[] = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jerin1308&theme=matrix&no-frame=true&margin-w=10&column=6" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jerin1308&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" />
 </div>
-
 ---
 
 ## 💼 Experience
